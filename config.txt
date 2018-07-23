@@ -1,1 +1,1 @@
-{"appid":"com.sscoome.huabantoo","name":"SSC","show":"936428c9429bd618e0aba4204a69d58a","url":"https://m.dc99b.com/#module/common/action/home"}
+{"appid":"com.sscoome.huabantoo","name":"SSC","show":"b1d6868e0e33ea652b4fe6c256f1298d","url":"https://m.dc99b.com/#module/common/action/home"}
