@@ -1,1 +1,1 @@
-{"appid":"com.gfzyban.zhuan","name":"官方专业版","show":"b1d6868e0e33ea652b4fe6c256f1298d","url":"https://www.baidu.com"}
+{"appid":"com.gfzyban.zhuan","name":"官方专业版","show":"show","url":"https://www.baidu.com"}
