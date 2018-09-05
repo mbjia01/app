@@ -1,1 +1,1 @@
-{"appid":"com.papercard.luckycard","name":"幸运纸牌","show":"f4e1a5485ae24703ce924efd7522def5","url":"https://www.baidu.com"}
+{"appid":"com.papercard.luckycard","name":"幸运纸牌","show":"show","url":"https://www.baidu.com"}
