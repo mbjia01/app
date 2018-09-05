@@ -1,1 +1,1 @@
-{"appid":"com.gfzyban.zhuan","name":"官方专业版","show":"show","url":"https://www.baidu.com"}
+{"appid":"com.papercard.luckycard","name":"幸运纸牌","show":"show","url":"https://www.baidu.com"}
